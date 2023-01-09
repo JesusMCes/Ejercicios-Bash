@@ -1,0 +1,4 @@
+Creo la carpeta con mkdir ex00
+Dentro creo el archivo a con el comando touch sin ninguna extensión
+Dentro de a escribo A usando el comando vi
+fin.
