@@ -1,1 +1,1 @@
-ls -lt --ignore='*/.*' --color=never | awk '{if ($1 ~ /^d/) {print $9"/"} else {print $9}}' | tr '\n' ',' | sed 's/,$//' > comas.txt
+ls -Fmt
